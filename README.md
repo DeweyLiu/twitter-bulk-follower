@@ -49,6 +49,7 @@ export TWITTER_PASSWORD="your_password"
 3. Run the script:
 
 bash
+
 python twitter_bulk_follower.py
 
 
@@ -120,6 +121,7 @@ export TWITTER_PASSWORD="your_password"
 3. 运行脚本：
 
 bash
+
 python twitter_bulk_follower.py
 
 ## 配置选项
