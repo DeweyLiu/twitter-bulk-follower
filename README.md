@@ -47,6 +47,7 @@ cd twitter-bulk-follower
 bash
 
 export TWITTER_USERNAME="your_username"
+
 export TWITTER_PASSWORD="your_password"
 
 
@@ -126,6 +127,7 @@ cd twitter-bulk-follower
 bash
 
 export TWITTER_USERNAME="your_username"
+
 export TWITTER_PASSWORD="your_password"
 
 3. 运行脚本：
