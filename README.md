@@ -28,6 +28,7 @@ Twitter Bulk Follower is an automated tool designed to follow multiple Twitter u
 Install the required dependencies:
 
 bash
+
 pip install selenium webdriver_manager
 
 ## Usage
@@ -35,13 +36,16 @@ pip install selenium webdriver_manager
 1. Clone the repository:
 
 bash
+
 git clone https://github.com/DeweyLiu/twitter-bulk-follower.git
+
 cd twitter-bulk-follower
 
 
 2. Set environment variables or modify the Twitter account information directly in the script:
 
 bash
+
 export TWITTER_USERNAME="your_username"
 export TWITTER_PASSWORD="your_password"
 
@@ -104,17 +108,23 @@ Twitter 批量关注工具是一个自动化工具，用于批量关注 Twitter 
 
 安装所需的依赖：
 bash
+
 pip install selenium webdriver_manager
 
 ## 使用方法
 
 1. 克隆仓库到本地：
+
 bash
+
 git clone https://github.com/DeweyLiu/twitter-bulk-follower.git
+
 cd twitter-bulk-follower
 
 2. 设置环境变量或直接在脚本中修改 Twitter 账号信息：
+
 bash
+
 export TWITTER_USERNAME="your_username"
 export TWITTER_PASSWORD="your_password"
 
